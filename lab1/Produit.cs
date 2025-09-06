@@ -24,7 +24,7 @@ namespace lab1
         public virtual async Task<Produit> Preparer(string no)
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("EN COURS DE PRÉPARATION DE LA COMMANDE " + no + " BOISSON COMMANDÉE : " + Nom);
+            Console.WriteLine("EN COURS DE PRÉPARATION DE LA COMMANDE " + no + " PRODUIT COMMANDÉE : " + Nom);
             await Task.Delay(1000);
             Console.ResetColor();
             return this;

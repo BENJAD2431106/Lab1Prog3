@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\2431106\\Documents\\Code\\Prog3\\Lab1Prog3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB80E891-049D-47D4-9F6F-1F8BAA4D1FFE}|lab1\\lab1.csproj|c:\\users\\2431106\\documents\\code\\prog3\\lab1prog3\\lab1\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB80E891-049D-47D4-9F6F-1F8BAA4D1FFE}|lab1\\lab1.csproj|solutionrelative:lab1\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB80E891-049D-47D4-9F6F-1F8BAA4D1FFE}|lab1\\lab1.csproj|c:\\users\\2431106\\documents\\code\\prog3\\lab1prog3\\lab1\\nourriture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB80E891-049D-47D4-9F6F-1F8BAA4D1FFE}|lab1\\lab1.csproj|solutionrelative:lab1\\nourriture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB80E891-049D-47D4-9F6F-1F8BAA4D1FFE}|lab1\\lab1.csproj|c:\\users\\2431106\\documents\\code\\prog3\\lab1prog3\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB80E891-049D-47D4-9F6F-1F8BAA4D1FFE}|lab1\\lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{DB80E891-049D-47D4-9F6F-1F8BAA4D1FFE}|lab1\\lab1.csproj|solutionrelative:lab1\\boisson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB80E891-049D-47D4-9F6F-1F8BAA4D1FFE}|lab1\\lab1.csproj|c:\\users\\2431106\\documents\\code\\prog3\\lab1prog3\\lab1\\nourriture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB80E891-049D-47D4-9F6F-1F8BAA4D1FFE}|lab1\\lab1.csproj|solutionrelative:lab1\\nourriture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DB80E891-049D-47D4-9F6F-1F8BAA4D1FFE}|lab1\\lab1.csproj|c:\\users\\2431106\\documents\\code\\prog3\\lab1prog3\\lab1\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB80E891-049D-47D4-9F6F-1F8BAA4D1FFE}|lab1\\lab1.csproj|solutionrelative:lab1\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB80E891-049D-47D4-9F6F-1F8BAA4D1FFE}|lab1\\lab1.csproj|c:\\users\\2431106\\documents\\code\\prog3\\lab1prog3\\lab1\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB80E891-049D-47D4-9F6F-1F8BAA4D1FFE}|lab1\\lab1.csproj|solutionrelative:lab1\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,36 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog3\\Lab1Prog3\\lab1\\Program.cs",
               "RelativeDocumentMoniker": "lab1\\Program.cs",
               "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog3\\Lab1Prog3\\lab1\\Program.cs",
               "RelativeToolTip": "lab1\\Program.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAAAJ0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAJ0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T19:24:12.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Nourriture.cs",
               "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog3\\Lab1Prog3\\lab1\\Nourriture.cs",
               "RelativeDocumentMoniker": "lab1\\Nourriture.cs",
               "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog3\\Lab1Prog3\\lab1\\Nourriture.cs",
               "RelativeToolTip": "lab1\\Nourriture.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwCQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T19:26:43.775Z"
+              "WhenOpened": "2025-08-22T19:26:43.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Ingredient.cs",
               "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog3\\Lab1Prog3\\lab1\\Ingredient.cs",
               "RelativeDocumentMoniker": "lab1\\Ingredient.cs",
@@ -71,19 +72,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Produit.cs",
               "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog3\\Lab1Prog3\\lab1\\Produit.cs",
               "RelativeDocumentMoniker": "lab1\\Produit.cs",
               "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog3\\Lab1Prog3\\lab1\\Produit.cs",
               "RelativeToolTip": "lab1\\Produit.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAiwB8AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwBoAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T19:26:29.888Z"
+              "WhenOpened": "2025-08-22T19:26:29.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Boisson.cs",
               "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog3\\Lab1Prog3\\lab1\\Boisson.cs",
               "RelativeDocumentMoniker": "lab1\\Boisson.cs",
